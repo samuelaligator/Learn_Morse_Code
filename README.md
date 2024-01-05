@@ -6,7 +6,7 @@ Learn Morse Code
 
 This is an application to learn the Morse Code
 
-![LearnMorse][100](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/4d002311-3e51-4927-a52f-317089765eed)
+![LearnMorse](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/4d002311-3e51-4927-a52f-317089765eed)[100]
 
 There are three menus:
 - Encode mode: encode Morse code letters
