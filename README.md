@@ -10,11 +10,12 @@ This is an application to learn the Morse Code
 
 There are three menus:
 - Encode mode: encode Morse code letters
-![WhatsApp Image 2024-01-05 at 21 57 50](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/e9e16766-d3d8-4cb2-9564-f67ed6a5a1cf)
+- ![WhatsApp Image 2024-01-05 at 21 57 50(2)](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/6b71fc02-00d6-4820-bceb-f0ccfc665670)
 - Decode mode: decode the signals from the flashing dot into letters
 ![WhatsApp Image 2024-01-05 at 21 57 50](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/a4237d0e-7489-40f7-8800-f957c088bae6)
 - Statistics to see the personal series record
-![WhatsApp Image 2024-01-05 at 21 57 50(2)](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/b2cd2dd7-e5be-4a66-a00c-de78fdeb8fbb)
+![WhatsApp Image 2024-01-05 at 21 57 50(1)](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/990f2deb-c90d-4e92-8bf1-23c6835eea22)
+
 
   
 I originally designed this app for my android phone, so you can find the apk in the repository
