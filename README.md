@@ -6,11 +6,11 @@ Learn Morse Code
 
 This is an application to learn the Morse Code
 
-![LearnMorse](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/4d002311-3e51-4927-a52f-317089765eed)
+![LearnMorse][100](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/4d002311-3e51-4927-a52f-317089765eed)
 
 There are three menus:
 - Encode mode: encode Morse code letters
-- ![WhatsApp Image 2024-01-05 at 21 57 50(2)](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/6b71fc02-00d6-4820-bceb-f0ccfc665670)
+![WhatsApp Image 2024-01-05 at 21 57 50(2)](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/6b71fc02-00d6-4820-bceb-f0ccfc665670)
 - Decode mode: decode the signals from the flashing dot into letters
 ![WhatsApp Image 2024-01-05 at 21 57 50](https://github.com/samuelaligator/Learn_Morse_Code/assets/61619191/a4237d0e-7489-40f7-8800-f957c088bae6)
 - Statistics to see the personal series record
@@ -19,9 +19,5 @@ There are three menus:
 
   
 I originally designed this app for my android phone, so you can find the apk in the repository
-
-.. _`Briefcase`: https://briefcase.readthedocs.io/
-.. _`The BeeWare Project`: https://beeware.org/
-.. _`becoming a financial member of BeeWare`: https://beeware.org/contributing/membership
 
 
